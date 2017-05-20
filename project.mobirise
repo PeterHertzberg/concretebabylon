@@ -1,0 +1,120 @@
+{
+  "settings": {
+    "name": "Concrete Babylon",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 9,
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/concretebabylonsoundtrackcover-128x128.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#c1c1c1",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "60px",
+              "text-align": "center"
+            },
+            ".mbr-section-text": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-section-text I": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-section-text B": {
+              "color": "#c1c1c1"
+            },
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-1",
+          "_params": {
+            "imageSize": "50",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/concretebabylonlogobig-2000x1125.png",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#000000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://vimeo.com/180205105",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "CONCRETE BABYLON",
+          "text": "<i><b>\"Where there once was a flowering meadow now lies a desert with a city of concrete and oilpipes...<br>Where there once was singing, play and happiness now all expressions of emotions are supressed by a dark force...<br>Where once there was a loving family and caring friendship now only exists coldness, arguing and fear...<br>This is a place that once was alive but now needs healing before it is to late...<br>My name is Guadalupe and this is my story.\"</b></i><br><br><b>Concrete Babylon is a self-funded feature film being made by one person, <a href=\"http://www.peterhertzberg.com\" target=\"_blank\" class=\"text-black\">Peter Hertzberg</a>, at <a href=\"http://www.omoiomo.com\" class=\"text-black\" target=\"_blank\">OMOiOMO</a>.&nbsp;</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"http://vimeopro.com/omoiomo/concrete-babylon\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">follow the<br>production<br>on <br>ViMEO<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://instagram.com/studio_omoiomo\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">follow the <br>production&nbsp;<br>on <br>iNSTAGRAM<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.redbubble.com/people/omoiomo\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">support the<br>production<br>by buying<br>physical merch<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://gumroad.com/omoiomo\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">support the<br>production<br>by buying<br>digital merch<br></a>"
+        }
+      ]
+    }
+  }
+}
